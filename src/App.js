@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Page is created and deployed by Bilal Gurjjar
-          <br/>Update by Ch.Bilal Gujjar
+          Page is created and deployed by Ch.Bilal Gurjjar
+          <br/>Update by team Ch.Bilal Gujjar
         </p>
       
       </header>
