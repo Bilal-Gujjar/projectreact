@@ -32,6 +32,8 @@ jobs:
     - name: React App deployment
       run: yarn build
     - name: Install Surge
+      run: npm install -g surge
+    - name: Deploy to Surge
       run: surge ./ projectreact.surge.sh --token ${{secrets.SURGE_TOKEN_REACT}}      
       
 
