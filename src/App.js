@@ -7,9 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Page is created and deployed by Ch.Bilal Gujjar
-          <br/>Update by team of Ch.Bilal Gujjar
+        <p>This ia a single page Web App
+           created and deployed by Ch.Bilal Gujjar and team!
         </p>
       
       </header>
