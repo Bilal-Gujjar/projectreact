@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>This is a single page Web App
+        <p>This is a single page React base Web App
           <br/>
-           created and deployed by Ch.Bilal Gujjar and team!
+           ****created and deployed by Ch.Bilal Gujjar****
         </p>
       
       </header>
