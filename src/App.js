@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>This is a single page React base Web App
           <br/>
-           ****created and deployed by Ch.Bilal Gujjar****
+           ****created and deployed by ---Bilal Gujjar****
            <br/>
           
         </p>
